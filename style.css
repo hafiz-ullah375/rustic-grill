@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto Mono', monospace;
+}
+h1{
+font-size: 50px;
+padding-bottom: 20px;
+}
+.text-color{
+    color: orchid;
+}
+.btn-design{
+text-decoration: none;
+background-image: linear-gradient(rgba(245, 83, 83, 0.651), pink);
+border-radius: 25px;
+padding: 10px 20px;
+font-weight: 700px;
+box-shadow: 5px 5px 5px ;
+color: purple;
+}
+.container{
+    display: flex;
+}
+.top-section{
+    width: 50%;
+    padding: 50px;
+
+}
+.top-section img{
+    width: 450px;
+    background-image: url(images/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+
+}
+.middle-section img{
+    width: 400px;
+
+}
+.middle-section{
+    width: 50%;
+    padding: 50px;
+}
+.top-padding{
+    padding-top: 200px;
+
+}
+p{
+    padding-bottom: 30px;
+}
+#middle-bgb{
+    background-image: url(images/Frame\ 59.jpg);
+   
+}
